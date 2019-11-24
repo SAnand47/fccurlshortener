@@ -12,8 +12,8 @@ POST https://fccurlshorten.glitch.me/api/shorturl/new - body (urlencoded) : url=
 
 #### Usage:
 
-https://fccurlshorten.glitch.me/api/shorturl/3
+https://fccurlshorten.glitch.me/api/shorturl/2
 
 #### Will redirect to:
 
-https://www.freecodecamp.org/forum/
+https://www.google.com
